@@ -4,7 +4,7 @@ import numpy as np
 from traning import traning
 from time import time
 from objectdetection import object_detection
-from python.windowCapture import Windowcapture
+from windowCapture import Windowcapture
 from movement import movement
 class MainProgram():
 
