@@ -45,7 +45,7 @@ You should be good to run the test model which detects the people on the program
 ```
 
 
-cd ..
+cd ../..
 
 pip install -r .\requirements.txt
 ```
